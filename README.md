@@ -1,4 +1,5 @@
 ### Hi there 👋
+Shiny domed software developer from the west country.
 
 <!--
 **UltraVisual/UltraVisual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
